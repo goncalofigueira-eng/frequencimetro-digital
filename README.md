@@ -2,6 +2,9 @@
 
 Repositório dedicado ao projeto académico desenvolvido no âmbito da unidade curricular de Projeto Temático em Programação Aplicada da Licenciatura em Eletrónica e Mecânica Industrial na ESTGA / Universidade de Aveiro.
 
+<img width="9248" height="6944" alt="IMG_20240111_215224" src="https://github.com/user-attachments/assets/d9bd9e53-2307-49a1-9fa4-662d022ac7b8" />
+
+
 ---
 
 ## Autoria e Enquadramento
