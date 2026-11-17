@@ -1,9 +1,8 @@
 # Frequencímetro Digital
 
-Repositório dedicado ao projeto académico desenvolvido no âmbito da unidade curricular de Projeto Temático em Programação Aplicada da Licenciatura em Eletrónica e Mecânica Industrial na ESTGA / Universidade de Aveiro.
+Repositório dedicado ao projeto académico desenvolvido no âmbito da unidade curricular de Projeto Temático em Programação Aplicada da Licenciatura em Eletrónica e Mecânica Industrial na ESTGA / Universidade de Aveiro, com a classificação final de 12 valores.
 
 <img width="9248" height="6944" alt="IMG_20240111_215224" src="https://github.com/user-attachments/assets/d9bd9e53-2307-49a1-9fa4-662d022ac7b8" />
-
 
 ---
 
@@ -38,4 +37,8 @@ Este projeto permitiu-me consolidar e aplicar conhecimentos práticos fundamenta
 ## Estrutura do Repositório
 * `Relatorio_Final.pdf`: Documentação técnica completa do projeto.
 * `Codigo/`: Ficheiros fonte em C++ utilizados no Arduino Uno.
-* `Videos & Imagens/`: Vídeos e Imagens.
+* `Videos & Imagens/`: Capturas de vídeo e imagem do projeto.
+
+
+
+
