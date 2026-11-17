@@ -1,4 +1,4 @@
-# Frequencímetro Digital ⚡[cite: 447, 450]
+# Frequencímetro Digital
 
 Repositório dedicado ao projeto académico desenvolvido no âmbito da unidade curricular de **Projeto Temático em Programação Aplicada** (ESTGA / Universidade de Aveiro)[cite: 447].
 
