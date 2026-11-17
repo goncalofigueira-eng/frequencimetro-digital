@@ -38,4 +38,4 @@ Este projeto permitiu-me consolidar e aplicar conhecimentos práticos fundamenta
 ## Estrutura do Repositório
 * `Relatorio_Final.pdf`: Documentação técnica completa do projeto.
 * `Codigo/`: Ficheiros fonte em C++ utilizados no Arduino Uno.
-* `Esquemas/`: Esquemas elétricos e simulações.
+* `Videos & Imagens/`: Vídeos e Imagens.
